@@ -2,7 +2,7 @@
 
 This repository contains a step-by-step tutorial on implementing Retrieval-Augmented Generation (RAG) using LangChain. The tutorial walks through various stages from installing dependencies to inferencing with a fully prepared RAG pipeline. 
 
-## Table of Contents
+## Steps
 
 1. [Installing the Dependencies using requirements.txt](#installing-the-dependencies-using-requirementstxt)
 2. [Importing Libraries](#importing-libraries)
